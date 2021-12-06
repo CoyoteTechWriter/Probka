@@ -73,8 +73,9 @@ However, the registration process was not carried out on iPhone or any other dev
 
 3.	Fill out all the fields, read the privacy policy, and accept it. In case some fields are left blank, or filled out incorrectly, the website will ask you to fill out/correct the data in a particular field.
 
-***Note***: It is impossible to proceed without accepting the privacy policy and user access agreement.
+> ***Note***: It is impossible to proceed without accepting the privacy policy and user access agreement.
 <br>
+
 4.	Click the **Create Account**  button to proceed further. The following screen should appear.
 
 
@@ -85,7 +86,7 @@ However, the registration process was not carried out on iPhone or any other dev
 
 5.	The website will now ask you to read the verification e-mail. Go to your mailbox, and read a message with a title **„Verify e-mail and complete registration”**. The message will contain the following screen.
 
-*Note: In case you don’t receive the message, check the Spam folder, or click the **Resend email**  for the verification e-mail to be sent again.
+> ***Note***: In case you don’t receive the message, check the Spam folder, or click the **Resend email**  for the verification e-mail to be sent again.
 
 
 ![](ekran4.jpg)
@@ -118,7 +119,7 @@ However, the registration process was not carried out on iPhone or any other dev
 
 9.	Select your country from the list, and then enter your VAT number. Then, click the **next**  button. You will be asked to provide more information, as shown below.
 
-***Note***: VAT number is the number your are assigned to when registering a business activity (company).
+> ***Note***: VAT number is the number your are assigned to when registering a business activity (company).
 
 
 ![](Ekran8.jpg)
@@ -131,7 +132,7 @@ However, the registration process was not carried out on iPhone or any other dev
 
 10.	The website will now ask you to provide more information regarding your company. Fill out all the fields. 
 
-***Note***: From the “Company size” list, select “1 – self-employed”.
+> ***Note***: From the “Company size” list, select “1 – self-employed”.
 
 11.	Then, click the **Add Company** button to enter your platform. A screen similar to the screen below should appear.
 <br>
