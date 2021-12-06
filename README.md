@@ -71,7 +71,7 @@ However, the registration process was not carried out on iPhone or any other dev
 ![](ekran2.jpg)
 <br>
 
-3.	Fill out all the fields, read the privacy policy, and accept it. In case some fields are left blank, or filled out incorrectly, the website will ask you to fill out/correct the data in a particular field.
+3.	Fill out all the fields, read the privacy policy, and accept it. In case some fields are left blank, or filled out incorrectly, you will be asked to fill out/correct the data in a particular field.
 
 > ***Note***: It is impossible to proceed without accepting the privacy policy and user access agreement.
 <br>
@@ -84,7 +84,7 @@ However, the registration process was not carried out on iPhone or any other dev
 
 <br>
 
-5.	The website will now ask you to read the verification e-mail. Go to your mailbox, and read a message with a title **„Verify e-mail and complete registration”**. The message will contain the following screen.
+5.	You will now be asked to read the verification e-mail. Go to your mailbox, and read a message with a title **„Verify e-mail and complete registration”**. The message will contain the following screen.
 
 > ***Note***: In case you don’t receive the message, check the Spam folder, or click the **Resend email**  for the verification e-mail to be sent again.
 
@@ -130,7 +130,7 @@ However, the registration process was not carried out on iPhone or any other dev
 <br>
 <br>
 
-10.	The website will now ask you to provide more information regarding your company. Fill out all the fields. 
+10.	You will now be asked to provide more information regarding your company. Fill out all the fields. 
 
 > ***Note***: From the “Company size” list, select “1 – self-employed”.
 
